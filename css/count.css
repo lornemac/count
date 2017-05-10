@@ -1,0 +1,86 @@
+.number {
+  font-size: 64px;
+  color: #fff;
+  font-family: 'Architects Daughter', cursive;
+}
+
+.answer {
+  font-size: 64px;
+  color: #468966;
+  font-family: 'Architects Daughter', cursive;
+}
+
+.operatorStyle {
+  font-size: 96px;
+  color: #fff0a5;
+  text-align: center;
+
+}
+
+.firstNumberBox {
+  padding: 10px;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #8e2800;
+  font-family: 'Architects Daughter', cursive;
+}
+
+.oldNumberBox {
+  padding: 10px;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #CEE3A7;
+  font-size: 64px;
+  color: #fff;
+  font-family: 'Architects Daughter', cursive;
+}
+
+.SecondNumberBox {
+  padding: 10px;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #ffb03b;
+  font-family: 'Architects Daughter', cursive;
+}
+
+input#answerField {
+  width: 100%;
+  padding: 5px;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 4px dotted #f27479;
+  text-align: center;
+  font-family: 'Architects Daughter', cursive;
+}
+.title{
+font-family: 'Chewy', cursive;
+}
+
+#result{
+  font-family: 'Chewy', cursive;
+}
+
+.correct{
+    color:#1db15b;
+    font-size: 96px;
+}
+
+.incorrect{
+    color:#b5121a;
+    font-size: 48px;
+}
+
+.well{
+font-family: 'Chewy', cursive;
+font-size: 48px;
+}
+
+
+
+.hideMe{
+  display: none;
+}
