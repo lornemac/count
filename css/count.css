@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Chewy';
+  src: url('fonts/chewy.ttf')format('truetype');
+}
+@font-face {
+  font-family: 'ArchitectsDaughter';
+  src: url('fonts/ArchitectsDaughter.ttf')format('truetype');
+}
 .number {
   font-size: 64px;
   color: #fff;
